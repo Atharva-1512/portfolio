@@ -125,7 +125,7 @@ export const experienceItems = [
 ];
 
 export const socialLinks = [
-  { label: "GitHub", href: "https://github.com/Atharva-1512" },
-  { label: "LinkedIn", href: "https://www.linkedin.com/in/atharva-gade-183147221/" },
-  { label: "Email", href: "mailto:atharvagadetech@gmail.com" }
+  { label: "GitHub", href: "https://github.com/your-username" },
+  { label: "LinkedIn", href: "https://linkedin.com/in/your-username" },
+  { label: "Email", href: "mailto:atharva@example.com" }
 ];
